@@ -1,4 +1,4 @@
-//% color=190 weight=100 icon="\uf085" block="SU01"
+//% color=190 weight=100 icon="\uf205" block="SU01"
 namespace SU01 {
     let SU01_I2C_ADDR = 0x55
     let ADC_REG_CONF = 0x02
